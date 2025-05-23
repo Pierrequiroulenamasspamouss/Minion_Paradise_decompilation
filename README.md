@@ -1,3 +1,5 @@
+# This project is im pause for the moment. Reason : University
+
 # Minion_Paradise_decompilation
 Have you ever tried to play that game to find it closed years ago ?
 
